@@ -1,0 +1,67 @@
+1
+00:00:04,350 --> 00:00:07,500
+Hundreds of traders are active on Strike every day,
+
+2
+00:00:07,800 --> 00:00:13,840
+but there's no way for them to talk to each other. Strike tam-tam fixes that, on-chain.
+
+3
+00:00:15,080 --> 00:00:21,180
+I connect my Cardano wallet. Strike tam-tam finds my Strike account and shows my stats.
+
+4
+00:00:21,480 --> 00:00:24,590
+No sign-up: the wallet is the identity.
+
+5
+00:00:25,380 --> 00:00:30,170
+I find a trader by nickname or ADA Handle, straight from Strike's leaderboard,
+
+6
+00:00:30,470 --> 00:00:35,270
+and the preview shows exactly the NFT they'll receive, with my sender mark.
+
+7
+00:00:36,080 --> 00:00:39,130
+One signature, about one and a half ADA,
+
+8
+00:00:39,430 --> 00:00:41,780
+and the message lands in their wallet.
+
+9
+00:00:45,580 --> 00:00:49,190
+One message can also go to up to ten traders at once.
+
+10
+00:00:53,080 --> 00:00:56,840
+Each of them gets their own NFT, two per transaction.
+
+11
+00:01:03,080 --> 00:01:05,700
+Each transaction is signed in the wallet,
+
+12
+00:01:06,000 --> 00:01:08,930
+and every recipient gets a link to their message.
+
+13
+00:01:18,580 --> 00:01:23,040
+The inbox shows who's writing, with their Strike stats and the full NFT,
+
+14
+00:01:23,340 --> 00:01:26,870
+and one click opens it in full size on pool.pm.
+
+15
+00:01:32,580 --> 00:01:36,960
+Encrypted messages unlock with the passphrase, right in the inbox.
+
+16
+00:01:37,260 --> 00:01:40,480
+On-chain, only a placeholder is readable.
+
+17
+00:01:41,280 --> 00:01:45,240
+Strike tam-tam: every trader, one message away.
