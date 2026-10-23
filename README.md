@@ -4,7 +4,7 @@
 Find any Strike trader by nickname, ADA Handle or wallet and send them a message that lands in their Cardano wallet as an NFT, to one trader or up to ten at once.
 
 - **Live:** https://strike.matotam.io
-- **Demo video (1:46):** [media/strike-tam-tam-demo.mp4](media/strike-tam-tam-demo.mp4) (English narration and subtitles; [.srt](media/strike-tam-tam-demo.srt))
+- **Demo video (1:46):** https://matob13.github.io/strike-tam-tam/media/strike-tam-tam-demo.mp4 (English narration and subtitles; file in [media/](media/))
 - **Code:** this repository — the site in `src/app/strike`, server routes in `src/app/api/strike`, the matotam helpers it builds on in `src/app/lib`
 - Built for the Strike hackathon, 21–23 October 2026, on top of [matotam](https://matotam.io) (wallet-to-wallet messages on Cardano)
 
